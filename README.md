@@ -1,6 +1,7 @@
-# 🚀 Windows-Simple-Tool-Kit  
-
-> **📌 内容整理来自：**  
+# Windows-Simple-Tool-Kit  
+是一套实用的 Windows 工具合集，涵盖 **系统优化、硬件检测、存储管理、桌面美化、病毒查杀** 等多个领域，帮助用户 **更高效地管理 Windows 系统**。  
+所有工具均按需下载 & 使用，优化你的 Windows 体验！
+> **内容整理自：**  
 > - **凌清**  
 >   - [抖音账号](https://m.douyin.com/share/user/MS4wLjABAAAAF4h2qs-kUzSJ0q5WVQgEXoyU8ybMzVm34n6S0-GAlGat3PSbKzCNtM5c99FCUJ1-)  
 >   - [哔哩哔哩](https://space.bilibili.com/107041356)  
@@ -16,12 +17,6 @@
 - **Telegram 账号**： [阿乔](https://t.me/Hemry_Chiao)  
 
 ---
-
-## 📌 **项目简介**
-**Windows-Simple-Tool-Kit** 是一套实用的 Windows 工具合集，涵盖 **系统优化、硬件检测、存储管理、桌面美化、病毒查杀** 等多个领域，帮助用户 **更高效地管理 Windows 系统**。  
-
-所有工具均按需下载 & 使用，优化你的 Windows 体验！ 🚀  
-
 
 ## 🛡️ 安全 & 病毒查杀
 | 工具 | 说明 |
