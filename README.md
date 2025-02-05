@@ -4,15 +4,16 @@
 
 所有工具均按需下载 & 使用，优化你的 Windows 体验！
 
-## 📌 目录
-- [安全 & 病毒查杀](#%E5%AE%89%E5%85%A8--%E7%97%85%E6%AF%92%E6%9F%A5%E6%9D%80)
-- [系统 & 硬件检测](#%E7%B3%BB%E7%BB%9F--%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B)
-- [网络 & 存储管理](#%E7%BD%91%E7%BB%9C--%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86)
-- [美化工具](#%E7%BE%8E%E5%8C%96%E5%B7%A5%E5%85%B7)
+## 目录
+- [安全与病毒查杀](#安全与病毒查杀)
+- [系统与硬件检测](#系统与硬件检测)
+- [网络与存储管理](#网络与存储管理)
+- [美化工具](#美化工具)
+- [贡献](#贡献)
 
 ---
 
-## 🛡️ 安全 & 病毒查杀
+## 安全与病毒查杀
 | 工具 | 说明 |
 |------|------|
 | [SoftCnKiller](https://free.lanzoui.com/b0cpu1guf) | 软媒广告 & 预装软件清理 |
@@ -22,7 +23,7 @@
 
 ---
 
-## 🖥️ 系统 & 硬件检测
+## 系统与硬件检测
 | 工具 | 说明 |
 |------|------|
 | [AIDA64 Extreme](https://www.aida64.com/) | 硬件检测工具 |
@@ -34,7 +35,7 @@
 
 ---
 
-## 🌐 网络 & 存储管理
+## 网络与存储管理
 | 工具 | 说明 |
 |------|------|
 | [dnstools](https://github.com/Kukaina/dnstools) | DNS 解析工具 |
@@ -44,7 +45,7 @@
 
 ---
 
-## 🎨 美化工具
+## 美化工具
 | 工具 | 说明 |
 |------|------|
 | [TranslucentTB](https://www.translucenttb.com/) | 任务栏透明化 |
@@ -53,15 +54,15 @@
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 增强工具 |
 | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) | 资源管理器 Mica 效果 |
 
-### 🎛️ **Rainmeter 推荐皮肤**
+### Rainmeter 推荐皮肤
 - [Quanto](https://github.com/SteveHsuDrawing/quanto/)
 - [HWiNFO](https://www.hwinfo.com/download/)
 - [JaxCore](https://jaxcore.app/)
 
 ---
 
-## 🤝 贡献
-欢迎提交 PR，推荐更多优秀工具！ 🚀
+## 贡献
+欢迎提交 PR，推荐更多优秀工具！
 
 > **内容整理自：**  
 > - **凌清**  
@@ -71,4 +72,3 @@
 >   - [哔哩哔哩](https://space.bilibili.com/956530?&unique_k=2333)  
 > - **Telegram 频道**：  
 >   - [冰点资源分享 ](https://t.me/ZGQincLiqun/3319)
-
