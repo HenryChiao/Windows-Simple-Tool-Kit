@@ -2,7 +2,23 @@
 WSTK
 # 🚀 Windows 优化 & 工具合集  
 
-一个高效、精简的 Windows **系统优化 & 美化** 工具集合，涵盖 **硬件检测、存储管理、网络工具、桌面美化** 等多个领域，助你提升 Windows 体验！  
+> **整理来自：**  
+> 抖音 [@凌清](https://www.douyin.com/user/MS4wLjABAAAAF4h2qs-kUzSJ0q5WVQgEXoyU8ybMzVm34n6S0-GAlGat3PSbKzCNtM5c99FCUJ1-) 
+> B站 [【凌清不是小臭猪】](https://space.bilibili.com/107041356?&unique_k=2333)  
+> B站 [【鸟人飞飞】](https://space.bilibili.com/956530?&unique_k=2333)  
+> **Telegram 频道：** [https://t.me/ZGQincLiqun/3319](https://t.me/ZGQincLiqun/3319)  
+
+一个高效、精简的 Windows **系统优化 & 美化** 工具集合，涵盖 **硬件检测、存储管理、网络工具、桌面美化、安全查杀** 等多个领域，助你提升 Windows 体验！  
+
+---
+
+## 🛡️ 安全 & 病毒查杀
+| 工具 | 说明 |
+|------|------|
+| [SoftCnKiller](https://free.lanzoui.com/b0cpu1guf) | 软媒广告 & 预装软件清理 |
+| [2345 专杀](https://free.lanzoub.com/inTQL0v56jwj) | 2345 系列软件清理 |
+| [火绒恶意木马专杀](https://bbs.huorong.cn/thread-18575-1-1.html) | 火绒官方木马查杀工具 |
+| [360 急救箱（强力模式两遍）](https://weishi.360.cn/jijiuxiang) | 深度系统修复 & 木马查杀 |
 
 ---
 
@@ -69,11 +85,6 @@ WSTK
 ---
 
 ## 📌 说明
-- **本列表涵盖** 🔹 系统优化 🔹 硬件检测 🔹 存储管理 🔹 桌面美化 **等多个工具**
-- **按需下载 & 使用**，让你的 Windows 体验更强大！
-- **如有更好的工具推荐，欢迎提交 PR！** 🚀
-
-## 📌 说明
-- **本列表涵盖** 🔹 系统优化 🔹 硬件检测 🔹 存储管理 🔹 桌面美化 **等多个工具**
+- **本列表涵盖** 🔹 系统优化 🔹 硬件检测 🔹 存储管理 🔹 桌面美化 🔹 病毒查杀 **等多个工具**
 - **按需下载 & 使用**，让你的 Windows 体验更强大！
 - **如有更好的工具推荐，欢迎提交 PR！** 🚀
