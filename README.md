@@ -22,12 +22,6 @@
 
 所有工具均按需下载 & 使用，优化你的 Windows 体验！ 🚀  
 
----
-
-
-![Windows-Simple-Tool-Kit](https://via.placeholder.com/800x400.png?text=Windows-Simple-Tool-Kit+Logo)  
-
----
 
 ## 🛡️ 安全 & 病毒查杀
 | 工具 | 说明 |
