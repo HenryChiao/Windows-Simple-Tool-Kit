@@ -1,14 +1,12 @@
 # Windows-Simple-Tool-Kit
-WSTK
-# 🚀 Windows 优化 & 工具合集  
 
 > **整理来自：**  
-> 抖音 [@凌清](https://www.douyin.com/user/MS4wLjABAAAAF4h2qs-kUzSJ0q5WVQgEXoyU8ybMzVm34n6S0-GAlGat3PSbKzCNtM5c99FCUJ1-) 
+> 抖音 [@凌清](https://www.douyin.com/user/MS4wLjABAAAAF4h2qs-kUzSJ0q5WVQgEXoyU8ybMzVm34n6S0-GAlGat3PSbKzCNtM5c99FCUJ1-)  
 > B站 [【凌清不是小臭猪】](https://space.bilibili.com/107041356?&unique_k=2333)  
 > B站 [【鸟人飞飞】](https://space.bilibili.com/956530?&unique_k=2333)  
 > **Telegram 频道：** [https://t.me/ZGQincLiqun/3319](https://t.me/ZGQincLiqun/3319)  
 
-一个高效、精简的 Windows **系统优化 & 美化** 工具集合，涵盖 **硬件检测、存储管理、网络工具、桌面美化、安全查杀** 等多个领域，助你提升 Windows 体验！  
+**一个高效、精简的 Windows 工具合集**，涵盖 **系统优化、硬件检测、存储管理、网络工具、桌面美化、安全查杀** 等多个领域，助你提升 Windows 体验！  
 
 ---
 
@@ -65,22 +63,16 @@ WSTK
 | [Wallpaper Engine（付费）](https://store.steampowered.com/app/431960/Wallpaper_Engine/) | 动态壁纸 |
 | [Windhawk](https://windhawk.net/) | Windows UI 调整 |
 | [Rainmeter](https://www.rainmeter.net/) | 桌面美化 |
-
-### 🎛️ **Rainmeter 推荐皮肤**
-- [Quanto](https://github.com/SteveHsuDrawing/quanto/)  
-- [HWiNFO](https://www.hwinfo.com/download/)  
-- [JaxCore](https://jaxcore.app/)  
-
----
-
-## 🔧 其他实用工具
-| 工具 | 说明 |
-|------|------|
 | [StartAllBack](https://www.ghxi.com/startallback.html) | 恢复经典 UI |
 | [Shell](https://nilesoft.org/download) | 右键菜单优化 |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 增强工具 |
 | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) | 资源管理器 Mica 效果 |
 | [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | Mica & 亚克力特效 |
+
+### 🎛️ **Rainmeter 推荐皮肤**
+- [Quanto](https://github.com/SteveHsuDrawing/quanto/)  
+- [HWiNFO](https://www.hwinfo.com/download/)  
+- [JaxCore](https://jaxcore.app/)  
 
 ---
 
