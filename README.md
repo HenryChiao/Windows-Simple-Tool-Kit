@@ -1,9 +1,5 @@
 # Windows Simple Tool Kit  
 
-🚀 **Windows Simple Tool Kit** 是一套实用的 Windows 工具合集，涵盖 **系统优化、硬件检测、存储管理、桌面美化、病毒查杀、运行库** 等多个领域，帮助用户更高效地管理 Windows 系统。  
-
-所有工具均按需下载 & 使用，优化你的 Windows 体验！  
-
 ---
 
 ## 📌 目录  
