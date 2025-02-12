@@ -109,6 +109,7 @@
 | **VC++ 运行库（第三方轻量版）** | 轻量版，仅包含常用版本 | [点击下载](https://github.com/abbodi1406/vcredist/) |  
 | **VisualCppRedist_AIO** | Visual C++ 运行库合集 | [点击下载](https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86_x64_69.zip) |  
 | **All in One Runtimes** | 多合一运行库包 | [点击下载](https://www.sereby.org/site/All%20in%20One%20Runtimes) |  
+| **游戏常用运行库合集** | 游戏必备运行库合集 | [点击下载](https://www.52pojie.cn/thread-2005341-1-1.html) |
 
 ---
 
