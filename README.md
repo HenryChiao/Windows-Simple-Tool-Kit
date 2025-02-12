@@ -88,7 +88,7 @@
 | **TrafficMonitor** | 任务栏流量监测 | [点击下载](https://github.com/zhongyang219/TrafficMonitor) |  
 | **Wallpaper Engine（付费）** | 动态壁纸 | [点击下载](https://store.steampowered.com/app/431960/Wallpaper_Engine/) |  
 | **Windhawk** | Windows UI 调整 | [点击下载](https://windhawk.net/) |  
-| **Rainmeter** | 桌面美化 | [点击下载](https://www.rainmeter.net/)  [推荐皮肤](Rainmeter_Skins.md) |  
+| **Rainmeter**  [推荐皮肤](Rainmeter_Skins.md) | 桌面美化 | [点击下载](https://www.rainmeter.net/) |  
 | **StartAllBack** | 经典 UI 恢复 | [点击下载](https://www.ghxi.com/startallback.html) |  
 | **Shell** | 右键菜单优化 | [点击下载](https://nilesoft.org/download) |  
 | **PowerToys** | Windows 增强工具 | [点击下载](https://github.com/microsoft/PowerToys) |  
