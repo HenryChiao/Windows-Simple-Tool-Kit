@@ -87,7 +87,7 @@
 | **TrafficMonitor** | 任务栏流量监测 | [点击下载](https://github.com/zhongyang219/TrafficMonitor) |  
 | **Wallpaper Engine（付费）** | 动态壁纸 | [点击下载](https://store.steampowered.com/app/431960/Wallpaper_Engine/) |  
 | **Windhawk** | Windows UI 调整 | [点击下载](https://windhawk.net/) |  
-| **Rainmeter** | 桌面美化 | [点击下载](https://www.rainmeter.net/) | [📜 推荐皮肤](Rainmeter_Skins.md) |  
+| **Rainmeter** | 桌面美化 | [点击下载](https://www.rainmeter.net/) [📜 推荐皮肤](Rainmeter_Skins.md) |  
 | **StartAllBack** | 经典 UI 恢复 | [点击下载](https://www.ghxi.com/startallback.html) |  
 | **Shell** | 右键菜单优化 | [点击下载](https://nilesoft.org/download) |  
 | **PowerToys** | Windows 增强工具 | [点击下载](https://github.com/microsoft/PowerToys) |  
@@ -96,12 +96,19 @@
 
 ---
 
+
+
 ## 📦 运行库下载  
 
 | 运行库 | 说明 | 下载链接 |  
 |------|------|----------|  
 | **Microsoft DirectX 9.0c** | 运行必备组件 | [点击下载](https://www.microsoft.com/zh-CN/download/details.aspx?id=8109) |  
 | **OpenAL** | 音频支持组件 | [点击下载](https://www.openal.org/downloads/oalinst.zip) |  
+| **.NET Desktop Runtime** | 运行 .NET 桌面应用 | [点击下载](https://dotnet.microsoft.com/en-us/download/dotnet) |  
+| **.NET Framework** | 运行旧版 .NET 应用 | [点击下载](https://dotnet.microsoft.com/en-us/download/dotnet-framework) |  
+| **VC++ 运行库（官方）** | 官方 Microsoft 运行库合集 | [点击下载](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist) |  
+| **VC++ 运行库（第三方全量版）** | 第三方打包，包含所有版本 | [点击下载](http://dreamcast2.ysepan.com/) |  
+| **VC++ 运行库（第三方轻量版）** | 轻量版，仅包含常用版本 | [点击下载](https://github.com/abbodi1406/vcredist/) |  
 | **VisualCppRedist_AIO** | Visual C++ 运行库合集 | [点击下载](https://github.com/abbodi1406/vcredist/releases/download/v0.69.0/VisualCppRedist_AIO_x86_x64_69.zip) |  
 | **All in One Runtimes** | 多合一运行库包 | [点击下载](https://www.sereby.org/site/All%20in%20One%20Runtimes) |  
 
