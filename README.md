@@ -30,7 +30,7 @@
 | 工具 | 说明 | 下载链接 |  
 |------|------|----------|  
 | **SoftCnKiller** | 软媒广告 & 预装软件清理 | [点击下载](https://free.lanzoui.com/b0cpu1guf) |  
-| **2345 专杀** | 2345 系列软件清理 | [点击下载](https://free.lanzoub.com/inTQL0v56jwj) |  
+| **2345 专杀** | 2345 系列软件清理 | [点击下载](https://free.lanzoue.com/iUtsv2y0iani) |  
 | **火绒恶意木马专杀** | 官方木马查杀工具 | [点击下载](https://bbs.huorong.cn/thread-18575-1-1.html) |  
 | **360 急救箱** | 强力模式两遍扫描 | [点击下载](https://weishi.360.cn/jijiuxiang) |  
 
